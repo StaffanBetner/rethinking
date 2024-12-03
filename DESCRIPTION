@@ -5,6 +5,8 @@ Version: 2.42
 Date: 2024-5-11
 Author: Richard McElreath
 Maintainer: Richard McElreath <richard_mcelreath@eva.mpg.de>
+Additional_repositories: 
+    https://stan-dev.r-universe.dev/
 Imports: coda, MASS, mvtnorm, loo, shape
 Depends: R (>= 4.0.0), cmdstanr, posterior, parallel, methods, stats, graphics
 Suggests: testthat, dagitty
